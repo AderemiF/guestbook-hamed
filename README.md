@@ -1,1 +1,2 @@
-*Replace with your own content, instructions in `Exercise.md`*
+Welcome to my guestbook!
+Wish you a Merry Christmas!

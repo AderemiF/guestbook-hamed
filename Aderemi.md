@@ -1,1 +1,1 @@
-Happy Holidays from Aderemi!
+Happy Holidays from Aderemi.
